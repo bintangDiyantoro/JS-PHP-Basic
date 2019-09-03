@@ -1,6 +1,6 @@
 <?php 
 //koneksi database
-$conn = mysqli_connect("localhost", "najmuddin", "stonehe4ded", "mahasiswadb");
+$conn = mysqli_connect("localhost", "najmuddin", "rahasia", "mahasiswadb");
 
 
 //------------------------------------CREATE--------------------------------------
